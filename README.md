@@ -29,8 +29,8 @@ A machine learning web app built with **XGBoost** and **Streamlit** that predict
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/bank-marketing-predictor.git
-cd bank-marketing-predictor
+git clone https://github.com/gnanreddy11/PRODIGY_DS_03.git
+cd PRODIGY_DS_03
 ```
 
 2. Install dependencies:
@@ -49,7 +49,7 @@ streamlit run app.py
 
 | Input Form | Prediction Output |
 |------------|-------------------|
-| ![form](assets/demo_screenshot.png) | ✅ or ❌ prediction with confidence % |
+| ![form](input_form.png) | ✅ or ❌ prediction with confidence % |
 
 ---
 
@@ -70,13 +70,3 @@ streamlit run app.py
 - scikit-learn
 - Streamlit
 - joblib
-
----
-
-## 📢 Connect With Me
-
-I'm currently exploring full-stack data science & AI development. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/yourprofile/) and check out more of my projects!
-
----
-
-**Made with ❤️ and caffeine.**
